@@ -1,8 +1,8 @@
 name = 'Ilona'
-print(name)
+print(name) #Ilona
 age = 31
-print(age)
+print(age) #31
 age = 31 + 1
-print(age)
+print(age) #32
 is_student = True
-print(is_student)
+print(is_student) #True
